@@ -20,3 +20,6 @@ Basta preencher todos os dados pedidos corretamente , sendo eles nome do produto
 ![MainWindow 13_06_2019 17_31_01](https://user-images.githubusercontent.com/51801013/59465466-55f8f000-8e01-11e9-8f15-b45ab76d3112.png)
 
 Agora que temos os dados necessários vamos fazer o cadastro clicando no botao inserir , onde os dados são direcionados imediatamente para a tabela. 
+
+
+![MainWindow 13_06_2019 17_31_06](https://user-images.githubusercontent.com/51801013/59465773-049d3080-8e02-11e9-836f-9fd6c934ac32.png)
