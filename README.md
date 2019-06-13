@@ -12,6 +12,11 @@ Além da tela de cadastro e amostragem dos produtos, o programa possui uma tela 
 ![MainWindow 13_06_2019 16_37_21](https://user-images.githubusercontent.com/51801013/59464876-fcdc8c80-8dff-11e9-956b-c858f58b0f0f.png)
 
 
-#Manual do Usuario
+# Manual do Usuario
 
 Basta preencher todos os dados pedidos corretamente , sendo eles nome do produto com no mínimo 3 letras , e quantidade de produto nao nula .
+
+
+![MainWindow 13_06_2019 17_31_01](https://user-images.githubusercontent.com/51801013/59465466-55f8f000-8e01-11e9-8f15-b45ab76d3112.png)
+
+
