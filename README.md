@@ -23,3 +23,9 @@ Agora que temos os dados necessários vamos fazer o cadastro clicando no botao i
 
 
 ![MainWindow 13_06_2019 17_31_06](https://user-images.githubusercontent.com/51801013/59465773-049d3080-8e02-11e9-836f-9fd6c934ac32.png)
+
+ # Como ordenar a tabela ?
+ 
+ O programa conta com 3 botões, o primeiro é um botão para ordenar por nome , sendo em ordem alfabética crescente dos nomes, o segundo é um botão para ordenar pelo mês de cadastro , sendo em ordem crescente começando em janeiro ate dezembro , e por fim um botão para ordenar pela quantidade, sendo ela crescente também.
+ 
+ 
