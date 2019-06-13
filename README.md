@@ -43,3 +43,9 @@ Agora que temos os dados necessários vamos fazer o cadastro clicando no botao i
 # Ordenando por quantidade
 
 ![MainWindow 13_06_2019 18_26_38](https://user-images.githubusercontent.com/51801013/59468694-13d3ac80-8e09-11e9-8f14-04787e717310.png)
+
+
+# Como usar o giro de estoque ?
+
+Basta apenas acessar a segunda pagina no programa, com nome giro de estoque e todas as informações concedidas estarão em seus devidos lugares.
+
