@@ -6,7 +6,7 @@ O programa permite ao usuario cadastrar o nome , mês e quantidade desejada, pod
 
   ![MainWindow 13_06_2019 16_36_03](https://user-images.githubusercontent.com/51801013/59464549-20eb9e00-8dff-11e9-9873-61b2a18a7015.png)
 
-Além da tela de cadastro e amostragem dos produtos, o programa possui uma tela de giro de estoque, que mostra o produto com a maior qunatidade, menor quantidade , numeros de produtos cadastrados e o mês do cadastro mais recente.
+Além da tela de cadastro e amostragem dos produtos, o programa possui uma tela de giro de estoque, que mostra o produto com a maior quantidade, menor quantidade , numeros de produtos cadastrados e o mês do cadastro mais recente.
 
 
 ![MainWindow 13_06_2019 16_37_21](https://user-images.githubusercontent.com/51801013/59464876-fcdc8c80-8dff-11e9-956b-c858f58b0f0f.png)
@@ -14,7 +14,7 @@ Além da tela de cadastro e amostragem dos produtos, o programa possui uma tela 
 
 # Manual do Usuario
 
-Basta preencher todos os dados pedidos corretamente , sendo eles nome do produto com no mínimo 3 letras , e quantidade de produto nao nula .
+Basta preencher todos os dados pedidos corretamente , sendo eles nome do produto com no mínimo 3 letras , e quantidade de produtos nao nula .
 
 
 ![MainWindow 13_06_2019 17_31_01](https://user-images.githubusercontent.com/51801013/59465466-55f8f000-8e01-11e9-8f15-b45ab76d3112.png)
@@ -61,7 +61,7 @@ Alem dos botões de facil acesso , o programa conta com mais 3 botões , sendo 2
 ![Captura de Tela (39)](https://user-images.githubusercontent.com/51801013/59469547-7a59ca00-8e0b-11e9-9943-1f66eb100c92.png)
 
 
-O terceiro e ultimo botão é usado quando se cadastra um produto com alguma informação errada , sendo usada para sobrescresver os dados anteriores, clicando no item desejada aparecerar uma janela para sobrescrever o respectido item.
+O terceiro e ultimo botão é usado quando se cadastra um produto com alguma informação errada , sendo usada para sobrescresver os dados anteriores, clicando no item desejado aparecerá uma janela para sobrescrever o respectivo item.
 
 ![Captura de Tela (40)](https://user-images.githubusercontent.com/51801013/59469559-834a9b80-8e0b-11e9-8d1a-8162ac0ec670.png)
 
