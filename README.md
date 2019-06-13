@@ -49,3 +49,9 @@ Agora que temos os dados necessários vamos fazer o cadastro clicando no botao i
 
 Basta apenas acessar a segunda pagina no programa, com nome giro de estoque e todas as informações concedidas estarão em seus devidos lugares.
 
+![MainWindow 13_06_2019 18_36_40](https://user-images.githubusercontent.com/51801013/59469096-3e723500-8e0a-11e9-94bd-7a3e4eedb8fe.png)
+
+
+# Funções extras  
+
+Alem dos botões de facil acesso , o programa conta com mais 3 botões , sendo 2 em um menu, para salvar o arquivo ou importa-lo para a tabela.
