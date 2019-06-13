@@ -55,3 +55,16 @@ Basta apenas acessar a segunda pagina no programa, com nome giro de estoque e to
 # Funções extras  
 
 Alem dos botões de facil acesso , o programa conta com mais 3 botões , sendo 2 em um menu, para salvar o arquivo ou importa-lo para a tabela.
+
+![Captura de Tela (38)](https://user-images.githubusercontent.com/51801013/59469407-19ca8d00-8e0b-11e9-89c6-704bba93455a.png)
+
+![Captura de Tela (39)](https://user-images.githubusercontent.com/51801013/59469547-7a59ca00-8e0b-11e9-9943-1f66eb100c92.png)
+
+
+O terceiro e ultimo botão é usado quando se cadastra um produto com alguma informação errada , sendo usada para sobrescresver os dados anteriores, clicando no item desejada aparecerar uma janela para sobrescrever o respectido item.
+
+![Captura de Tela (40)](https://user-images.githubusercontent.com/51801013/59469559-834a9b80-8e0b-11e9-8d1a-8162ac0ec670.png)
+
+![Captura de Tela (41)](https://user-images.githubusercontent.com/51801013/59469569-8e053080-8e0b-11e9-8c06-dc76d6fd50df.png)
+
+![Captura de Tela (42)](https://user-images.githubusercontent.com/51801013/59469578-965d6b80-8e0b-11e9-8569-0dc62ed31ad6.png)
