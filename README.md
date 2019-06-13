@@ -28,4 +28,18 @@ Agora que temos os dados necessários vamos fazer o cadastro clicando no botao i
  
  O programa conta com 3 botões, o primeiro é um botão para ordenar por nome , sendo em ordem alfabética crescente dos nomes, o segundo é um botão para ordenar pelo mês de cadastro , sendo em ordem crescente começando em janeiro ate dezembro , e por fim um botão para ordenar pela quantidade, sendo ela crescente também.
  
+ # Cadastrando itens
  
+ ![MainWindow 13_06_2019 18_26_22](https://user-images.githubusercontent.com/51801013/59468628-ee46a300-8e08-11e9-8114-1fcb5527faa3.png)
+ 
+# Ordenando por nome
+
+![MainWindow 13_06_2019 18_26_29](https://user-images.githubusercontent.com/51801013/59468657-fbfc2880-8e08-11e9-907c-017d8cb96225.png)
+
+# Ordenando por mês
+
+![MainWindow 13_06_2019 18_26_34](https://user-images.githubusercontent.com/51801013/59468669-04546380-8e09-11e9-95a6-cdf7e5d71d3f.png)
+
+# Ordenando por quantidade
+
+![MainWindow 13_06_2019 18_26_38](https://user-images.githubusercontent.com/51801013/59468694-13d3ac80-8e09-11e9-8f14-04787e717310.png)
